@@ -25,3 +25,5 @@ The forms and UI components use [DotNetBar](http://www.devcomponents.com/dotnetb
 #### Screenshot
 
 ![Screenshot](http://i.imgur.com/XwyeZwy.png)
+
+Tile assets can be found [here](http://www.photonstorm.com/flash-game-dev-tips/flash-game-dev-tip-12-building-a-retro-platform-game-in-flixel-part-1).
