@@ -28,6 +28,6 @@ The forms and UI components use [DotNetBar](http://www.devcomponents.com/dotnetb
 
 Tile assets can be found [here](http://www.photonstorm.com/flash-game-dev-tips/flash-game-dev-tip-12-building-a-retro-platform-game-in-flixel-part-1).
 
-#### Early HTML5 Iteration
+#### Early HTML5 Iteration (video)
 
 [![Early HTML5 Iteration Thumbnail](http://img.youtube.com/vi/UVmzWSwQvdQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=UVmzWSwQvdQ)
